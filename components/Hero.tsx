@@ -37,7 +37,7 @@ const Hero = () => {
             words="Ini adalah aku" />
 
           <p className="text-center md:tracking-wider mb-4 
-          text-sm md:text-lg lg:text-2xl">
+          text-sm md:text-lg lg:text-2xl text-blue-100">
           Hi, I'am Agum, a Devops Engineer with some experience
           </p>
           <a href="#about">
